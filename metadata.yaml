@@ -1,0 +1,25 @@
+_repo: Vilag-folyasa-3-kotet-Beszelyek_67213
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bérczy, Károly
+    gutenberg_agent_id: '54158'
+    url: http://www.gutenberg.org/2009/agents/54158
+description: ''
+gutenberg_issued: '2022-01-21'
+identifiers:
+  gutenberg: '67213'
+language: hu
+pgterms:marc905: 20211128010642brczy
+pgterms:marc906: '1854'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Google
+  Books Library Project
+publication_note: Hungary :Számvald Gyula,1854.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Világ folyása (3. kötet): Beszélyek'
+url: http://www.gutenberg.org/ebooks/67213
