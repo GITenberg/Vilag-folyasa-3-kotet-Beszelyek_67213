@@ -1,11 +1,16 @@
 _repo: Vilag-folyasa-3-kotet-Beszelyek_67213
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bérczy, Károly
     gutenberg_agent_id: '54158'
     url: http://www.gutenberg.org/2009/agents/54158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67213#Vilag-folyasa-3-kotet-Beszelyek
 gutenberg_issued: '2022-01-21'
 identifiers:
   gutenberg: '67213'
